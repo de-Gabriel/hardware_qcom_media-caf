@@ -19,5 +19,3 @@ include $(QCOM_MEDIA_ROOT)/libsidebandstreamhandle/Android.mk
 endif
 
 endif
-
-endif
